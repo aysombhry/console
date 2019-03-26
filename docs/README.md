@@ -1,0 +1,1 @@
+Projeye dahil olacak olan kişinin proje hakkında bilgi edinmesi için bu dökümanı okuması yeterli.
